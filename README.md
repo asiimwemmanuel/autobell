@@ -51,7 +51,6 @@ To build and operate this project, you will need the following components and so
 1. **Arduino IDE**: Begin by opening the Arduino IDE on your computer.
 
 2. **Create a New Sketch**: Create a new Arduino sketch to work on this project.
-
 3. **Copy and Paste Code**: Copy and paste the code provided in the [Arduino_RTC_Bell.ino](Arduino_RTC_Bell.ino) file into your sketch.
 
 4. **Save the Sketch**: Save the sketch with a descriptive name that reflects the project's purpose.
